@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "UltaAc",
+  "repo": "container-kilxk0",
+  "name": "UltaAc",
+  "email": "khushi_b220357ar@nitc.ac.in",
+}
